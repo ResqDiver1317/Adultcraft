@@ -1,4 +1,3 @@
 # Adultcraft
-<strong>Adultcraft Community Issue Tracker</strong>
-<br /><br />Please use this system to report issues you are having on any of the Adultcraft Community servers. Be sure to identify which server you are having this issue (or in the case of a general or website issue) so the proper staff can be assigned.
-<br /><br />Also be sure to include as many details as possible (usernames involved, coordinates/dimension if possible, what you were doing when the issue occurred).
+<strong>Adultcraft Staff and Project Management</strong>
+<br /><br />This GitHub is to be used by the staff of AdultCraft to share documents, track issues, and track server projects. If you have any questions about the use of this Git, contact an admin.
